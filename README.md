@@ -3,7 +3,7 @@
 ## Problem Description
 The purpose of this exercise is to be sure everything is set up correctly and to show you how to navigate GitHub and PyCharm. The code is provided for you - all you need to do is make one small edit.
 
-* open [src/mycode.py](/src/my_code.py)
+* Open [src/mycode.py](/src/my_code.py)
 * Uncomment (remove the #) the print statement. Be sure there are no spaces between the margin and the print statement.
 * Run the program by going to the Run menu and clicking Run. (There are 2 Run options in the menu. The first one will probably be greyed out - choose the second one.) You can also right-click on the code and choose Run.
   * If you have an error message, ask for help.
