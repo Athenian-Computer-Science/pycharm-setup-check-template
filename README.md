@@ -24,3 +24,7 @@ The purpose of this exercise is to be sure everything is set up correctly and to
 
 ### This will get easier!😊🦉
 
+
+**Attribution:**
+
+Thank you to Bianca Ruiz [@RuiztheRuler](https://github.com/RuizTheRuler) for providing a great starting place for automating feedback!
