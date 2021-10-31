@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "greeting",
+      "setup": "",
+      "run": "python3 src/my_code.py",
+      "input": "",
+      "output": "This is a test of GitHub and PyCharm. It is only a test.",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 0
+    }
+  ]
+}
