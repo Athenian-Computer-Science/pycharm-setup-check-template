@@ -16,11 +16,14 @@ The purpose of this exercise is to be sure everything is set up correctly and to
  
  ### Check GitHub
  * Go to your repo in GitHub and check to be sure it was updated in the last couple minutes.
- * Look for a yellow dot, green check or red X. Those symbols indicate the automatic testing status. Yellow means the tests are running. The green check means the tests have passed and the red X means the tests failed becuase there is an error somewhere.
-  * If you see a yellow dot, refresh the screen until the tests finish and you see the result. 
+ * Click the Pull Requests tab and then click on Feedback. Check your feedback - be sure it passed all tests and there are no style issues to be resolved. There are 3 types of tests used in this class: 
+  * Classroom Workflow tests: these check to be sure your program functions correctly. 
+  * Build and Test (pytest): these also check to be sure your program functions correctly. These tests require the use of functions so we'll get to these later.
+  * Style tests: these check to be sure you are using good style (according to the [Python Style Guide](https://docs.python-guide.org/writing/style/)) There are two sytle checkers here: one is built into the "Build and Test" algorithm and the other uses a style-checking bot. Both show up under Feedback.  
+   
 
 ### Submit confirmation on Canvas
-* The last step is to submit a confirmation message on Canvas that you are done and the tests have passed (if there are tests).
+* The last step is to submit a confirmation message on Canvas that you are done and the tests have passed.
 
 ### This will get easier!😊🦉
 
